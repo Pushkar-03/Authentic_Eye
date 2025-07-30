@@ -55,3 +55,56 @@ Deepfake Detection Challenge (DFDC)
 
 Place real and fake videos into the data/ folder.
 
+
+🧠 Model Training
+To train the model from scratch:
+
+```bash
+python train_model.py
+```
+You can configure parameters like:
+1) Epochs
+2) Batch size
+3) Learning rate
+
+Model architecture (ResNet)
+
+🌐 Run the Flask Web App
+To launch the web interface:
+
+```bash
+python app.py
+```
+Then open "http://127.0.0.1:5000" in your browser and upload a video to test deepfake detection.
+
+📊 Sample Output
+Real-time prediction (Real / Fake)
+
+Confidence scores
+
+Visual feedback of detected faces
+
+📌 Future Improvements
+🎙️ Audio deepfake detection integration
+
+🧠 Lightweight models for mobile deployment
+
+📈 Real-time video stream analysis
+
+🛡️ Integration with cybersecurity alert systems
+
+🧾 License
+This project is licensed under the MIT License. Feel free to use and modify it for educational or research purposes.
+
+🤝 Contributing
+Contributions are welcome! Open an issue or pull request to suggest improvements, add models, or enhance the UI.
+
+📬 Contact
+For collaborations or inquiries:
+📧 [phbstudy@gmail.com]
+🔗 LinkedIn: Pushkar Bihani
+
+---
+
+## Let me know if you want this tailored for Hugging Face Spaces, Docker deployment, or want to include pretrained model links.
+
