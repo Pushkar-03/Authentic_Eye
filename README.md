@@ -102,7 +102,7 @@ Contributions are welcome! Open an issue or pull request to suggest improvements
 📬 Contact
 For collaborations or inquiries:
 📧 [phbstudy@gmail.com]
-🔗 LinkedIn: Pushkar Bihani
+🔗 LinkedIn: www.linkedin.com/in/pushkar-bihani  (Pushkar Bihani)
 
 ---
 
